@@ -7,7 +7,7 @@
 body{
     min-height:100vh;
     font-family:'Segoe UI',sans-serif;
-    background-image:url("2026.jpg");
+    background-image:url("../img/2026.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
